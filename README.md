@@ -1,1 +1,2 @@
-# Oscine\nA music player
+# Oscine
+A music player
